@@ -1,0 +1,185 @@
+*{
+   margin:0;
+   padding:0;
+}
+.photo{
+    width: 445px;
+    padding: 20px;
+    margin-right: 70px;
+}
+.head-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 56vh;
+    padding: 35px;
+    background-color: pink;
+    text-align: center;  
+}
+.head-text{
+    text-align: start;
+}
+.heading{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+}
+.pragharph{
+    padding: 20px;
+    width: 500px;
+    margin-left: 240px;
+}
+.btn{
+    padding:20px;
+    background-color: crimson;
+    color:white;
+    border-radius: 5px;
+    margin-left: 250px;
+}
+.banner-container{
+    width: 80%;
+   padding: 20px;
+   margin-left: 400px;
+   margin-top: 50px;
+   background-color:rgba(233, 225, 226,);
+   padding: 20px;
+}
+.main-container{
+    margin: 50px 0;
+}
+.text{
+    margin-left: 350px;
+}
+.demo{
+    text-align: center;
+    margin-right: 400px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.images{
+   padding: 20px;
+   justify-content: space-around;
+   display: flex;
+   margin: 80px 0;
+}
+.img-1{
+    background-color: rgb(238, 221, 224);
+    border-radius: 300px 300px 0px 0px;
+    margin-right:100px;
+    height:550px;
+}
+.img-2{
+    background-color:paleturquoise;
+    border-radius: 300px 300px 0px 0px ;
+    margin-right: 50px;
+    height: 550px;
+}
+.img-3{
+    background-color:rgb(230, 217, 217);
+    border-radius: 300px 300px 0px 0px;
+    height: 550px;
+    margin-right: 400px;
+}
+.main-tag{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    background-color: rgba(104, 51, 63, 0.05);
+}
+.flower-img{
+
+    padding:50px
+}
+.main-text{
+    margin-left: 450px;
+    margin-top: 210px;
+    text-align: center;
+    justify-content:space-around;
+}
+.button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 250px;
+}
+.social{
+    width: 80%;
+    height:50vh ;
+    padding: 40px;
+    margin-top: 30px;
+}
+.social-name{
+    text-align: center;
+    margin-left:300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+    width:300px;
+    height: 350px;
+    padding: 10px;
+    margin-left: 300px;
+    display: flex;
+    gap:15px;
+}
+.simple-demo{
+    width: 80%;
+    height: 40vh;
+    padding: 10% 0;
+    margin-left: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     background-image:url(./Asset/Rectangle\ 9.png);
+     background-repeat: no-repeat;
+
+}
+#position{
+    height: 50px;
+    width: 600px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.sub-btn{
+    padding: 22px;
+    background-color: crimson;
+    color:white;
+}
+.some-text{
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    margin-bottom: 200px;
+    padding: 20px;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(238, 237, 235);
+
+}
+.some-collection{
+    display:inline;
+}
+.set-up{
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+     float: 10px;
+     border-radius: 20%;
+     margin-bottom: 20px;
+}
+.last-part{
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    background-color: rgb(12, 10, 10);
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+     
+    
+}
+.pink{
+    color:rgb(231, 6, 44);
+}
+.icons{
+    height: 100px;
+    width: 100px;
+    padding-top:10% ;
+}
